@@ -157,8 +157,6 @@ const styles = StyleSheet.create({
     button: {
         justifyContent: 'center',
         alignContent: 'center',
-        borderStyle: 'solid',
-        borderWidth: 1,
         padding: 5,
         borderRadius: 10,
         marginTop: 10,

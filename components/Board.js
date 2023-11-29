@@ -32,8 +32,6 @@ function Board({board, initialBoard, selectedCell, setSelectedCell, highlightedC
     );
 }
 
-
-
 const styles = StyleSheet.create({
     board: {
         borderWidth: 1,
